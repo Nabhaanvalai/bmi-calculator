@@ -1,0 +1,46 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box; 
+}
+body{
+  background-color: #e0e8ff;
+
+}
+
+main{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-color: #fff;
+width: 90vw;
+max-width: 500px;
+margin: 0 auto;
+margin-top: 100px;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+margin-left: 35%;
+margin-top: 15%;
+}
+
+.input-slider{
+  padding: 10px;
+  width: 280px;
+}
+
+p{
+  font-size: large;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.output{
+  background-color: blue;
+  padding: 4px;
+  border-radius: 10px;
+  
+}
